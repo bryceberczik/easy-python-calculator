@@ -18,7 +18,7 @@ This calculator allows you to add, subtract, multiply, and divid. You are able t
 At this time, you do not need to have to install any thing as the app is just basic python.
 
 ## Usage
-In order to use this application, you must git clone this repository, clone it down to your desired location on your computer, and then run the "calculator,py" file on any coding editor of your choice.
+In order to use this application, you must git clone this repository, clone it down to your desired location on your computer, and then run the "calculator.py" file on any coding editor of your choice.
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
